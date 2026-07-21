@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">KostMeal</string>
+    <string name="judul_aplikasi">Kost Meal</string>
+    <string name="subjudul_aplikasi">Rekomendasi menu hemat, praktis, dan cocok untuk anak kos.</string>
+    <string name="slogan_aplikasi">Makan hemat, tetap nikmat.</string>
+    <string name="rekomendasi_hari_ini">Rekomendasi Hari Ini</string>
+
+    <string name="filter_semua">Semua</string>
+    <string name="filter_hemat">Hemat</string>
+    <string name="filter_praktis">Praktis</string>
+    <string name="filter_sehat">Sehat</string>
+
+    <string name="pesan_filter_semua">Semua menu anak kos ditampilkan.</string>
+    <string name="pesan_filter_hemat">Menampilkan menu hemat dengan harga maksimal Rp10.000.</string>
+    <string name="pesan_filter_praktis">Menampilkan menu yang praktis dan cepat dibuat.</string>
+    <string name="pesan_filter_sehat">Menampilkan menu yang lebih sehat dan bergizi.</string>
+    <string name="format_ringkasan_menu">%1$d menu tersedia • %2$d menu hemat</string>
+
+    <string name="kembali">Kembali</string>
+    <string name="judul_bahan">Bahan-bahan</string>
+    <string name="judul_cara_membuat">Cara Membuat</string>
+    <string name="pesan_data_menu_tidak_ditemukan">Data menu tidak ditemukan.</string>
+    <string name="deskripsi_gambar_menu">Ikon menu %1$s</string>
+    <string name="buka_detail_menu">Buka detail menu</string>
+
+</resources>
