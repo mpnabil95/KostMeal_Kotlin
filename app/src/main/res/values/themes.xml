@@ -13,4 +13,7 @@
         <item name="android:forceDarkAllowed">false</item>
         <item name="android:windowActionModeOverlay">true</item>
     </style>
+    <style name="RoundedCornerImage">
+        <item name="cornerSize">16dp</item>
+    </style>
 </resources>

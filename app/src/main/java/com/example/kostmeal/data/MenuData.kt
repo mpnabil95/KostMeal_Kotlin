@@ -22,7 +22,7 @@ object MenuData {
                 ),
                 caraMembuat = "Goreng telur hingga matang. Siapkan nasi putih, tambahkan telur di atasnya, lalu beri kecap sesuai selera.",
                 deskripsi = "Menu sederhana, murah, cepat dibuat, dan cocok untuk anak kos saat pagi hari.",
-                gambar = R.drawable.ic_food_24
+                gambar = R.drawable.nasi_telur_kecap
             ),
             MenuMakanan(
                 nama = "Mie Goreng Sayur",
@@ -39,7 +39,7 @@ object MenuData {
                 ),
                 caraMembuat = "Rebus mie sebentar. Tumis sayur dan telur, lalu campurkan mie dengan bumbu. Masak hingga matang.",
                 deskripsi = "Menu praktis untuk malam hari dengan tambahan sayur agar lebih bergizi.",
-                gambar = R.drawable.ic_food_24
+                gambar = R.drawable.mie_goreng_sayur
             ),
             MenuMakanan(
                 nama = "Tumis Kangkung Tempe",
@@ -56,7 +56,7 @@ object MenuData {
                 ),
                 caraMembuat = "Tumis bawang hingga harum, masukkan tempe, lalu masukkan kangkung. Tambahkan bumbu dan masak sebentar.",
                 deskripsi = "Menu sehat dan hemat yang cocok untuk makan siang anak kos.",
-                gambar = R.drawable.ic_food_24
+                gambar = R.drawable.tumis_kangkung_tempe
             ),
             MenuMakanan(
                 nama = "Nasi Ayam Suwir",
@@ -74,7 +74,7 @@ object MenuData {
                 ),
                 caraMembuat = "Suwir ayam rebus. Tumis bumbu hingga harum, masukkan ayam suwir, lalu sajikan bersama nasi.",
                 deskripsi = "Menu mengenyangkan dengan protein yang cukup untuk aktivitas kuliah.",
-                gambar = R.drawable.ic_food_24
+                gambar = R.drawable.nasi_ayam_suwir
             ),
             MenuMakanan(
                 nama = "Oat Pisang",
@@ -90,7 +90,7 @@ object MenuData {
                 ),
                 caraMembuat = "Campurkan oat dengan susu atau air panas. Tambahkan potongan pisang dan madu jika tersedia.",
                 deskripsi = "Menu sarapan sehat, ringan, dan cocok untuk mahasiswa yang ingin makan praktis.",
-                gambar = R.drawable.ic_food_24
+                gambar = R.drawable.oat_pisang
             ),
             MenuMakanan(
                 nama = "Roti Telur",
@@ -106,7 +106,7 @@ object MenuData {
                 ),
                 caraMembuat = "Panggang roti dengan margarin. Goreng telur, lalu susun telur di antara roti.",
                 deskripsi = "Menu cepat untuk sarapan sebelum berangkat kuliah.",
-                gambar = R.drawable.ic_food_24
+                gambar = R.drawable.roti_telur
             ),
             MenuMakanan(
                 nama = "Nasi Sarden",
@@ -123,7 +123,7 @@ object MenuData {
                 ),
                 caraMembuat = "Tumis bawang dan cabai, masukkan sarden, lalu masak hingga mendidih. Sajikan dengan nasi.",
                 deskripsi = "Menu praktis dan mengenyangkan untuk malam hari.",
-                gambar = R.drawable.ic_food_24
+                gambar = R.drawable.nasi_sarden
             ),
             MenuMakanan(
                 nama = "Tahu Tempe Sambal",
@@ -141,7 +141,7 @@ object MenuData {
                 ),
                 caraMembuat = "Goreng tahu dan tempe. Ulek cabai, bawang, dan garam. Sajikan dengan nasi hangat.",
                 deskripsi = "Menu akhir bulan yang murah, sederhana, tetapi tetap mengenyangkan.",
-                gambar = R.drawable.ic_food_24
+                gambar = R.drawable.tahu_tempe_sambal
             ),
             MenuMakanan(
                 nama = "Sup Telur Sayur",
@@ -159,7 +159,7 @@ object MenuData {
                 ),
                 caraMembuat = "Rebus air, masukkan bawang dan sayur. Tambahkan telur kocok, lalu masak hingga matang.",
                 deskripsi = "Menu hangat dan sehat yang cocok saat malam atau ketika cuaca dingin.",
-                gambar = R.drawable.ic_food_24
+                gambar = R.drawable.sup_telur_sayur
             ),
             MenuMakanan(
                 nama = "Nasi Nugget Mayo",
@@ -176,7 +176,7 @@ object MenuData {
                 ),
                 caraMembuat = "Goreng nugget hingga matang. Sajikan di atas nasi, lalu tambahkan mayones dan saus.",
                 deskripsi = "Menu praktis untuk anak kos yang ingin makan cepat tanpa banyak persiapan.",
-                gambar = R.drawable.ic_food_24
+                gambar = R.drawable.nasi_nugget_mayo
             )
         )
     }
