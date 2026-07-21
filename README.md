@@ -147,7 +147,7 @@ flowchart LR
 1. Clone repository:
 
    ```bash
-   git clone <https://github.com/mpnabil95/KostMeal_Kotlin>
+   git clone https://github.com/mpnabil95/KostMeal_Kotlin
    ```
 
 2. Buka folder project melalui Android Studio.
