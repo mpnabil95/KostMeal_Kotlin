@@ -26,14 +26,15 @@
             android:layout_height="82dp"
             android:background="@drawable/bg_food_icon">
 
-            <ImageView
-                android:id="@+id/imgMenu"
-                android:layout_width="42dp"
-                android:layout_height="42dp"
-                android:layout_gravity="center"
-                android:contentDescription="@string/app_name"
-                android:tint="@color/orange_primary"
-                tools:src="@drawable/ic_food_24" />
+            <com.google.android.material.imageview.ShapeableImageView
+            android:id="@+id/imgMenu"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:scaleType="centerCrop"
+            android:contentDescription="@string/app_name"
+            app:shapeAppearanceOverlay="@style/RoundedCornerImage"
+            tools:src="@drawable/ic_food_24" />
 
         </FrameLayout>
 
