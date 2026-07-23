@@ -232,7 +232,6 @@ gradlew.bat test
 
 ## Rencana Pengembangan
 
-- Menambahkan gambar berbeda untuk setiap menu.
 - Menambahkan pencarian berdasarkan nama atau bahan.
 - Menambahkan fitur favorit dan riwayat menu.
 - Menyimpan data melalui Room Database.
